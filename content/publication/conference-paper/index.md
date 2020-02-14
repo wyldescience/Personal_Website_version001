@@ -4,7 +4,7 @@ authors:
 - admin
 - Angela Crean
 - Russell Bonduriansky
-date: "2019-09-01T00:00:00Z"
+date: "2020"
 doi: ""
 featured: false
 image:
@@ -16,7 +16,7 @@ publication: '*Behavioural Ecology*'
 publication_short: ""
 publication_types:
 - "2"
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2019-09-01T00:00:00Z"
 summary: 
 - Ejaculate quantity and quality can depend strongly on the availability of metabolic resources. This suggests that male ejaculate allocation strategies under sperm competition risk could vary with resource availability as well. To test this, we reared neriid fly males on nutrient-rich or nutrient-poor larval diets, labelled their sperm with fluorescent dies, and allowed them to mate first (low sperm competition risk) or second (high sperm competition risk). We found that males reared on nutrient-rich larval diet transferred more sperm, and perhaps also increased ejaculate allocation when mating second. Our results suggest that neriid males employ strategic, condition-dependent sperm transfer strategies.
 tags:
@@ -24,12 +24,7 @@ tags:
 title: Effects of condition and sperm competition risk on sperm allocation and storage in neriid flies.
 url_code: ""
 url_dataset: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_poster: ""
-url_project: ""
-url_slides: ""
-url_source: ""
-url_video: ""
+url_pdf: "files/Wylde_Crean_Bonduriansky 2020.pdf"
 ---
 
 {{% alert note %}}

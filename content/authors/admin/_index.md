@@ -6,7 +6,7 @@ education:
   courses:
   - course: PhD in Evolutionary Ecology
     institution: University of New South Wales
-    year: 2019
+    year: 2020
   - course: MSc in Evolutionary Ecology
     institution: University of Auckland
     year: 2014
@@ -21,11 +21,13 @@ interests:
 - Chemical signalling
 - Condition-dependence
 - Insect genitalia
+- Phenotypic integration
+- Sexual selection and sexual conflict
 name: Zac Wylde
 organizations:
 - name: University of New South Wales
   url: "https://www.bees.unsw.edu.au/zac-wylde"
-role: PhD graduate
+role: Post doctoral fellow
 social:
 - icon: envelope
   icon_pack: fas
@@ -45,6 +47,6 @@ user_groups:
 - Visitors
 ---
 
-I am a PhD graduate from the [Evolution and Ecology Research Centre] (http://www.eerc.unsw.edu.au/) at the University of New South Wales. I mostly study how the environment affects the evolution of reproductive allocation strategies but am also interested in communication, sex-role reversal and sexual selection amongst many other aspects of evolutionary ecology! For my PhD in the [Bonduriansky lab](http://www.bonduriansky.net/index.htm) I used the neriid fly *Telostylinus angusticollis* to investigate numerous environmental effects on reproductive allocation empirically. For my MSc I investigated courtship and aggressive behaviours, and allometry using an unstudied species of carrion fly, *Scordalus femoratus* (helosciomyzidae), native to New Zealand. I have a keen interest in insects (particularly flies) but am willing to work with anything if the organism suits the question! 
+I am a recent PhD graduand from the [Evolution and Ecology Research Centre] (http://www.eerc.unsw.edu.au/) at the University of New South Wales. I am interested in a wide range of topics within evolutionary biology including; chemical communication, ageing, trait integration, sex-role reversal and sexual selection amongst many others! For my PhD in the [Bonduriansky lab](http://www.bonduriansky.net/index.htm) I used the neriid fly *Telostylinus angusticollis* to investigate numerous environmental effects on reproductive allocation empirically. For my MSc I investigated courtship and aggressive behaviours, and allometry using an unstudied species of carrion fly, *Scordalus femoratus* (helosciomyzidae), native to New Zealand. I have a keen interest in insects (particularly flies) but am willing to work with anything if the organism suits the question! 
 
-More recently, I have become interested in agent-based modelling to investigate the Bateman's principle and the evolution of ornamentation in sex-role reversed species. I have also dabbled in machine-learning techniques and am broadly interested in statistics, R coding and producing open and reproducible science.
+More recently, I have started work using the clonal springtail, *Folsomia candida* to examine environmental impacts on ageing and lifespan. I am also characterizing the behaviour of a native carrion fly, *Piophila vitrea*.  

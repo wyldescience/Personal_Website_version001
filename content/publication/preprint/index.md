@@ -1,44 +1,26 @@
 ---
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
-  ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed
-  ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis
-  sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida
-  egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id
-  dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus.
-  Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Individuals within populations vary enormously in mortality risk and longevity, but the causes of this variation remain poorly understood. A potentially important and phylogenetically widespread source of such variation is maternal age at breeding, which typically has negative effects on offspring longevity. Here, we show that paternal age can affect offspring longevity as strongly as maternal age does and that breeding age effects can interact over 2 generations in both matrilines and patrilines. We manipulated maternal and paternal ages at breeding over 2 generations in the neriid fly Telostylinus angusticollis. To determine whether breeding age effects can be modulated by the environment, we also manipulated larval diet and male competitive environment in the first generation. We found separate and interactive effects of parental and grand-parental ages at breeding on descendants' mortality rate and life span in both matrilines and patrilines. These breeding age effects were not modulated by grand-parental larval diet quality or competitive environment. Our findings suggest that variation in maternal and paternal ages at breeding could contribute substantially to intrapopulation variation in mortality and longevity.
 authors:
 - admin
-date: "2019-04-07T00:00:00Z"
+date: "2019-11-07T00:00:00Z"
 doi: ""
-featured: false
+featured: true
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
+  caption: 'Image credit: Zac Wylde'
   focal_point: ""
   preview_only: false
-links:
-- name: Custom Link
-  url: http://example.org
-projects:
-- internal-project
-publication: ""
+publication: "PLOS Biology"
 publication_short: ""
 publication_types:
-- "3"
-publishDate: "2017-01-01T00:00:00Z"
-slides: example
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
-  ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+- "2"
+publishDate: "2019-11-01T00:00:00Z"
+summary: Breeding age negatively influences offspring lifespan and ageing over two generations in both patrilines and matrilines.
 tags:
 - Source Themes
-title: An example preprint / working paper
+title: Parental breeding age effects on descendants' longevity interact over 2 generations in matrilines and patrilines
 url_code: '#'
 url_dataset: '#'
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_poster: '#'
-url_project: ""
-url_slides: ""
-url_source: '#'
-url_video: '#'
+url_pdf: "files/Wylde et al PLOSBio.pdf"
 ---
 
 {{% alert note %}}

@@ -7,7 +7,7 @@ authors:
 - Russell Bonduriansky
 date: "2019-09-01T00:00:00Z"
 doi: ""
-featured: true
+featured: false
 image:
   caption: 'Image credit: Russell Bonduriansky'
   focal_point: ""
@@ -27,12 +27,7 @@ tags:
 title: Perceived dominance status affects chemical signalling in the neriid fly.
 url_code: ""
 url_dataset: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_poster: ""
-url_project: ""
-url_slides: ""
-url_source: ""
-url_video: ""
+url_pdf: "files/Wylde_Adler_Crean_Bonduriansky 2019.pdf"
 ---
 
 {{% alert note %}}
