@@ -1,48 +1,50 @@
 ---
 authors:
 - admin
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: My research interests include animal behaviour, sexual selection, non-genetic inheritance, ageing, chemical signalling, condition-dependence, sperm competition, allometry, and the evolution of insect genitalia.
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
+  - course: PhD in Evolutionary Ecology
+    institution: University of New South Wales
+    year: 2019
+  - course: MSc in Evolutionary Ecology
+    institution: University of Auckland
+    year: 2014
+  - course: BSc in Biological Sciences
+    institution: University of Auckland
     year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-email: ""
+email: "wyldescience@gmail.com"
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-name: Nelson Bighetti
+- Animal behaviour
+- Non-genetic inheritance
+- Ageing
+- Chemical signalling
+- Condition-dependence
+- Insect genitalia
+name: Zac Wylde
 organizations:
-- name: Stanford University
-  url: ""
-role: Professor of Artificial Intelligence
+- name: University of New South Wales
+  url: "https://www.bees.unsw.edu.au/zac-wylde"
+role: PhD graduate
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'
+  link: "mailto:wyldescience@gmail.com"
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/wyldescience
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com.au/citations?user=g2nkhcwAAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/wyldescience
 superuser: true
 user_groups:
 - Researchers
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a PhD graduate from the [Evolution and Ecology Research Centre] (http://www.eerc.unsw.edu.au/) at the University of New South Wales. I mostly study how the environment affects the evolution of reproductive allocation strategies but am also interested in communication, sex-role reversal and sexual selection amongst many other aspects of evolutionary ecology! For my PhD in the [Bonduriansky lab](http://www.bonduriansky.net/index.htm) I used the neriid fly *Telostylinus angusticollis* to investigate numerous environmental effects on reproductive allocation empirically. For my MSc I investigated courtship and aggressive behaviours, and allometry using an unstudied species of carrion fly, *Scordalus femoratus* (helosciomyzidae), native to New Zealand. I have a keen interest in insects (particularly flies) but am willing to work with anything if the organism suits the question! 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+More recently, I have become interested in agent-based modelling to investigate the Bateman's principle and the evolution of ornamentation in sex-role reversed species. I have also dabbled in machine-learning techniques and am broadly interested in statistics, R coding and producing open and reproducible science.
