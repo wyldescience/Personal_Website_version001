@@ -24,3 +24,11 @@
     name = "CV"
     url = "files/cv.pdf"
     weight = 40
+    
+# Link to page listing collaborators
+[[main]]
+  name = "People"
+  url = "#people"
+  weight = 50
+
+
