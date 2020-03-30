@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2 | Dr Zac Wylde</title>
-    <link>/www.wyldescience.com/publication_types/2/</link>
-      <atom:link href="/www.wyldescience.com/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    <link>/publication_types/2/</link>
+      <atom:link href="/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 07 Nov 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/www.wyldescience.com/img/me.jpg</url>
+      <url>/img/me.jpg</url>
       <title>2</title>
-      <link>/www.wyldescience.com/publication_types/2/</link>
+      <link>/publication_types/2/</link>
     </image>
     
     <item>
       <title>Parental breeding age effects on descendants&#39; longevity interact over 2 generations in matrilines and patrilines</title>
-      <link>/www.wyldescience.com/publication/preprint/</link>
+      <link>/publication/preprint/</link>
       <pubDate>Thu, 07 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>/www.wyldescience.com/publication/preprint/</guid>
+      <guid>/publication/preprint/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;
 &lt;p&gt;Supplementary notes can be added here, including 
 &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
@@ -25,18 +25,18 @@
     
     <item>
       <title>Effects of condition and sperm competition risk on sperm allocation and storage in neriid flies.</title>
-      <link>/www.wyldescience.com/publication/conference-paper/</link>
+      <link>/publication/conference-paper/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>/www.wyldescience.com/publication/conference-paper/</guid>
+      <guid>/publication/conference-paper/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;
 </description>
     </item>
     
     <item>
       <title>Perceived dominance status affects chemical signalling in the neriid fly.</title>
-      <link>/www.wyldescience.com/publication/journal-article/</link>
+      <link>/publication/journal-article/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>/www.wyldescience.com/publication/journal-article/</guid>
+      <guid>/publication/journal-article/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;
 &lt;!-- raw HTML omitted --&gt;
 &lt;p&gt;Supplementary notes can be added here, including 

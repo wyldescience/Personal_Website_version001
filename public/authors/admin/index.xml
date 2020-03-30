@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dr Zac Wylde</title>
-    <link>/www.wyldescience.com/authors/admin/</link>
-      <atom:link href="/www.wyldescience.com/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+    <link>/authors/admin/</link>
+      <atom:link href="/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     <description>Dr Zac Wylde</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 07 Nov 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/www.wyldescience.com/img/me.jpg</url>
+      <url>/img/me.jpg</url>
       <title>Dr Zac Wylde</title>
-      <link>/www.wyldescience.com/authors/admin/</link>
+      <link>/authors/admin/</link>
     </image>
     
     <item>
       <title>Parental breeding age effects on descendants&#39; longevity interact over 2 generations in matrilines and patrilines</title>
-      <link>/www.wyldescience.com/publication/preprint/</link>
+      <link>/publication/preprint/</link>
       <pubDate>Thu, 07 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>/www.wyldescience.com/publication/preprint/</guid>
+      <guid>/publication/preprint/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;
 &lt;p&gt;Supplementary notes can be added here, including 
 &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
@@ -25,18 +25,18 @@
     
     <item>
       <title>Effects of condition and sperm competition risk on sperm allocation and storage in neriid flies.</title>
-      <link>/www.wyldescience.com/publication/conference-paper/</link>
+      <link>/publication/conference-paper/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>/www.wyldescience.com/publication/conference-paper/</guid>
+      <guid>/publication/conference-paper/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;
 </description>
     </item>
     
     <item>
       <title>Perceived dominance status affects chemical signalling in the neriid fly.</title>
-      <link>/www.wyldescience.com/publication/journal-article/</link>
+      <link>/publication/journal-article/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>/www.wyldescience.com/publication/journal-article/</guid>
+      <guid>/publication/journal-article/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;
 &lt;!-- raw HTML omitted --&gt;
 &lt;p&gt;Supplementary notes can be added here, including 
@@ -46,9 +46,9 @@
     
     <item>
       <title>Display Jupyter Notebooks with Academic</title>
-      <link>/www.wyldescience.com/post/jupyter/</link>
+      <link>/post/jupyter/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>/www.wyldescience.com/post/jupyter/</guid>
+      <guid>/post/jupyter/</guid>
       <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span style=&#34;color:#f92672&#34;&gt;from&lt;/span&gt; IPython.core.display &lt;span style=&#34;color:#f92672&#34;&gt;import&lt;/span&gt; Image
 Image(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png&amp;#39;&lt;/span&gt;)
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;&lt;img src=&#34;./index_1_0.png&#34; alt=&#34;png&#34;&gt;&lt;/p&gt;
@@ -90,9 +90,9 @@ date: 2019-09-01
     
     <item>
       <title>Academic: the website builder for Hugo</title>
-      <link>/www.wyldescience.com/post/getting-started/</link>
+      <link>/post/getting-started/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/www.wyldescience.com/post/getting-started/</guid>
+      <guid>/post/getting-started/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Create a free website with Academic using Markdown, Jupyter, or RStudio. Choose a beautiful color theme and build anything with the Page Builder - over 40 &lt;em&gt;widgets&lt;/em&gt;, &lt;em&gt;themes&lt;/em&gt;, and &lt;em&gt;language packs&lt;/em&gt; included!&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;
 &lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Check out the latest &lt;strong&gt;demo&lt;/strong&gt;&lt;/a&gt; of what you&amp;rsquo;ll get in less than 10 minutes, or 
