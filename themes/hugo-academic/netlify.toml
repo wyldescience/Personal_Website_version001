@@ -1,6 +1,6 @@
 [build]
-publish = "https://github.com/wyldescience/Personal_Website_version001"
-command = "hugo --gc --minify"
+publish = "public"
+command = "hugo"
 
 [context.production.environment]
 HUGO_VERSION = "0.68.3"
