@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Peoples | Dr Zac Wylde</title>
-    <link>/people/</link>
-      <atom:link href="/people/index.xml" rel="self" type="application/rss+xml" />
-    <description>Peoples</description>
+    <title>People | Dr Zac Wylde</title>
+    <link>/categories/people/</link>
+      <atom:link href="/categories/people/index.xml" rel="self" type="application/rss+xml" />
+    <description>People</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 31 Mar 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/me.jpg</url>
-      <title>Peoples</title>
-      <link>/people/</link>
+      <title>People</title>
+      <link>/categories/people/</link>
     </image>
     
     <item>

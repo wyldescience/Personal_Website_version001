@@ -185,6 +185,9 @@ plugins_js  = []
   publication_view = 2
   talk_view = 2
 
+
+[People]
+post_view = 1
 ############################
 ## Comments
 ############################
