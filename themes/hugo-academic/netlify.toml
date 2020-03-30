@@ -1,5 +1,5 @@
 [build]
-publish = "public"
+publish = "https://github.com/wyldescience/Personal_Website_version001"
 command = "hugo --gc --minify"
 
 [context.production.environment]
