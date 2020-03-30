@@ -5,7 +5,7 @@
 
 [build.environment]
   HUGO_THEME = "repo"
-  HUGO_VERSION = "0.58.3"
+  HUGO_VERSION = "0.68.3"
   HUGO_ENABLEGITINFO = "true"
 
 [context.production.environment]
@@ -13,7 +13,7 @@
 
 [context.deploy-preview]
   command = "hugo --gc --minify --buildFuture -b $DEPLOY_PRIME_URL --themesDir ../../"
-
+  HUGO_VERSION = "0.68.3"
 [context.branch-deploy]
   command = "hugo --gc --minify -b $DEPLOY_PRIME_URL --themesDir ../../"
 
@@ -26,3 +26,4 @@
   for = "index.xml"
   [headers.values]
     Content-Type = "application/rss+xml"
+    

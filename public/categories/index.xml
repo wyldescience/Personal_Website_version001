@@ -12,21 +12,5 @@
       <link>/www.wyldescience.com/categories/</link>
     </image>
     
-    <item>
-      <title>Demo</title>
-      <link>/www.wyldescience.com/categories/demo/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/www.wyldescience.com/categories/demo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>R</title>
-      <link>/www.wyldescience.com/categories/r/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      <guid>/www.wyldescience.com/categories/r/</guid>
-      <description></description>
-    </item>
-    
   </channel>
 </rss>
