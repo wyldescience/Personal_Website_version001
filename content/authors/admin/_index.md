@@ -23,6 +23,7 @@ interests:
 - Insect genitalia
 - Phenotypic integration
 - Sexual selection and sexual conflict
+- Alternative reproductive tactics
 name: Zac Wylde
 organizations:
 - name: University of New South Wales
@@ -47,6 +48,14 @@ user_groups:
 - Visitors
 ---
 
-I am a recent PhD graduand from the [Evolution and Ecology Research Centre](http://www.eerc.unsw.edu.au/) at the University of New South Wales. I am interested in a wide range of topics within evolutionary biology including; chemical communication, ageing, trait integration, sex-role reversal and sexual selection amongst many others! For my PhD in the [Bonduriansky lab](http://www.bonduriansky.net/index.htm) I used the neriid fly *Telostylinus angusticollis* to investigate numerous environmental effects on reproductive allocation empirically. For my MSc I investigated courtship and aggressive behaviours, and allometry using an unstudied species of carrion fly, *Scordalus femoratus* (helosciomyzidae), native to New Zealand. I have a keen interest in insects (particularly flies) but am willing to work with anything if the organism suits the question! 
+I am a recent PhD graduand from the [Evolution and Ecology Research Centre](http://www.eerc.unsw.edu.au/) at the University of New South Wales. I am interested in a wide range of topics within evolutionary biology including; chemical communication, ageing, trait integration, sex-role reversal and sexual selection amongst many others! For my PhD in the [Bonduriansky lab](http://www.bonduriansky.net/index.htm) I used the neriid fly *Telostylinus angusticollis* to empircally investigate numerous environmental effects on reproductive allocation. 
+
+I completed my MSc under the supervision of [Professor Gregory Holwell](https://gregholwell.com/) at the University of Auckland, New Zealand. I investigated the courtship and aggressive behaviours, and allometry of an unstudied species of fly, *Scordalus femoratus* (Helosciomyzidae), along with the community ecology of native carrion flies in the Waitakere ranges. I have a keen interest in insects (particularly flies) but am willing to work with anything if the organism suits the question! 
 
 More recently, I have started work using the clonal springtail, *Folsomia candida* to examine environmental impacts on ageing and lifespan. I am also characterizing the behaviour of a native carrion fly, *Piophila vitrea*.  
+
+[google scholar profile](https://scholar.google.com.au/citations?user=g2nkhcwAAAAJ&hl=en)
+
+[ORCID profile](https://orcid.org/0000-0001-6867-2338)
+
+[Publons profile ](https://publons.com/researcher/3129242/zac-wylde/)

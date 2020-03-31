@@ -1,0 +1,17 @@
+---
+title: ''
+author: ZGW
+date: '2020-03-31'
+slug: people_trial
+categories: []
+tags: []
+linktitle: People_trial
+summary: ~
+lastmod: '2020-03-31T01:03:08+11:00'
+toc: yes
+type: docs
+menu:
+  example:
+    name: YourParentID
+    weight: 1
+---

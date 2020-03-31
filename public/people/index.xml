@@ -1,24 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Peoples | Dr Zac Wylde</title>
+    <title>Collaborators | Dr Zac Wylde</title>
     <link>/people/</link>
       <atom:link href="/people/index.xml" rel="self" type="application/rss+xml" />
-    <description>Peoples</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 31 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <description>Collaborators</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Sep 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/me.jpg</url>
-      <title>Peoples</title>
+      <title>Collaborators</title>
       <link>/people/</link>
     </image>
     
     <item>
-      <title>People</title>
-      <link>/people/people/</link>
-      <pubDate>Tue, 31 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>/people/people/</guid>
-      <description>&lt;p&gt;Russell Bonduriansky&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/people/2020-03-31-people.en_files/avatar.jpg.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+      <title>Effects of condition and sperm competition risk on sperm allocation and storage in neriid flies.</title>
+      <link>/people/russell/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/people/russell/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
 </description>
     </item>
     
