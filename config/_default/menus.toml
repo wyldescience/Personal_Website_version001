@@ -27,9 +27,6 @@
     
   
 # Link to page listing collaborators
-[[main]]
-  name = "People"
-  url = "#people"
-  weight = 50
+# add same as above but need to figure out how to add content to new page
 
 
