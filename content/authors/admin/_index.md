@@ -52,7 +52,7 @@ I am a recent PhD graduand from the [Evolution and Ecology Research Centre](http
 
 I completed my MSc under the supervision of [Professor Gregory Holwell](https://gregholwell.com/) at the University of Auckland, New Zealand. I investigated the courtship and aggressive behaviours, and allometry of an unstudied species of fly, *Scordalus femoratus* (Helosciomyzidae), along with the community ecology of native carrion flies in the Waitakere ranges. I have a keen interest in insects (particularly flies) but am willing to work with anything if the organism suits the question! 
 
-More recently, I have started work using the clonal springtail, *Folsomia candida* to examine environmental impacts on ageing and lifespan. I am also characterizing the behaviour of a native carrion fly, *Piophila vitrea*.  
+I am currently working on a number of projects with Professor Russell Bonduriansky and more recently, Professor John Hunt using the decorated cricket *Gryllodes sigillatus*. I am also a reviewing editor for the [*Journal of Evolutionary Biology*](https://onlinelibrary.wiley.com/journal/14209101).
 
 [google scholar profile](https://scholar.google.com.au/citations?user=g2nkhcwAAAAJ&hl=en)
 
