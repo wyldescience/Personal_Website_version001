@@ -4,7 +4,7 @@ authors:
 - admin
 date: "2019-11-07T00:00:00Z"
 doi: ""
-featured: true
+featured: false
 image:
   caption: 'Image credit: Zac Wylde'
   focal_point: ""

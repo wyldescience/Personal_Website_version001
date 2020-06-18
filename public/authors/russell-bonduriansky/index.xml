@@ -5,12 +5,24 @@
     <link>/authors/russell-bonduriansky/</link>
       <atom:link href="/authors/russell-bonduriansky/index.xml" rel="self" type="application/rss+xml" />
     <description>Russell Bonduriansky</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 28 Apr 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/me.jpg</url>
       <title>Russell Bonduriansky</title>
       <link>/authors/russell-bonduriansky/</link>
     </image>
+    
+    <item>
+      <title>Condition dependence of phenotypic integration and the evolvability of genitalic traits in a neriid fly.</title>
+      <link>/publication/biology-letters/</link>
+      <pubDate>Tue, 28 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/biology-letters/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;Supplementary notes can be added here, including 
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Effects of condition and sperm competition risk on sperm allocation and storage in neriid flies.</title>
